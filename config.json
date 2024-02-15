@@ -1,0 +1,9 @@
+{
+    "data": {
+        "trajectories": "data/geolife_beijing.parquet",
+        "tiles": "data/bbox_beijing.parquet",
+        "poi": "data/labeled_pois.parquet",
+        "landuse": "data/labeled_landuse.parquet",
+        "pt": "data/labeled_public_transport.parquet"
+    }
+}
