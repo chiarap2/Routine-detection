@@ -1,4 +1,4 @@
-# Trajectory Behavior Identification
+# (Non-) Routine Behaviour Detection
 
 This repository contains the code for identifying routine and non-routine behavior from a dataset of trajectories. The trajectories are first summarized using MAT-Sum, a method for summarizing trajectories while preserving their semantic quality.
 
